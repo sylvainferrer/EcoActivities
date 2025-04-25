@@ -1,0 +1,8 @@
+﻿vendor/
+var/
+.env.local
+.env.*.local
+/.idea/
+node_modules/
+public/bundles/
+tests/bootstrap.php
