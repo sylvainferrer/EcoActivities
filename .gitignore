@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -27,3 +28,13 @@
 ###> lexik/jwt-authentication-bundle ###
 /config/jwt/*.pem
 ###< lexik/jwt-authentication-bundle ###
+=======
+﻿vendor/
+var/
+.env.local
+.env.*.local
+/.idea/
+node_modules/
+public/bundles/
+tests/bootstrap.php
+>>>>>>> 544364466789a080896a6cc9ad37bb898e51a2a3
