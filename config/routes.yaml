@@ -3,9 +3,6 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
-<<<<<<< HEAD
 api_login_check:
     path: /api/login_check
 
-=======
->>>>>>> 544364466789a080896a6cc9ad37bb898e51a2a3
